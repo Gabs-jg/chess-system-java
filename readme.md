@@ -5,9 +5,10 @@ Este projeto é um sistema de jogo de xadrez completo, desenvolvido em Java, que
 O objetivo deste projeto foi aplicar conhecimentos de herança, polimorfismo, encapsulamento e tratamento de exceções numa aplicação prática e lógica. O sistema gere todas as regras do xadrez, incluindo movimentos especiais e deteção de estados de jogo.
 
 ## Funcionalidades Implementadas:
-Movimentos Básicos: Suporte para todas as peças (Rei, Rainha, Bispo, Cavaleiro, Torre e Peão) com as suas respetivas regras de movimento.
+### Movimentos Básicos: 
+Suporte para todas as peças (Rei, Rainha, Bispo, Cavaleiro, Torre e Peão) com as suas respetivas regras de movimento.
 
-## Movimentos Especiais:
+### Movimentos Especiais:
 
 Roque (Castling): Tanto para o lado do rei quanto para o lado da rainha.
 
